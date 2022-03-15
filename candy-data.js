@@ -1,4 +1,4 @@
-export const candyEl = [
+export const candyArr = [
     {
         name: 'Gummy Bears', 
         sweetness: '4',
