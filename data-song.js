@@ -4,7 +4,7 @@ export const songArr = [
         length: '4:09',
         bandName: 'Glass Animals',
         otherSongs: ['Heat Waves', 'The Other Side of Paradise', 'Take A Slice'],
-        bandMembers: 
+        bandMembers: [
             {
                 name: 'Dave Bayley',
                 position: 'Lead Vocals',
@@ -25,18 +25,18 @@ export const songArr = [
                 position: 'Guitar',
                 birthday: 'November 21st, 1988',
             },
-    }, 
+        ] }, 
     {
         name: 'Formula',
         length: '1:32',
         bandName: 'Labrinth',
-        otherSongs: ['Mount Everest', 'All For Us', 'Still Don\'t know my name']
-        bandMembers: 
+        otherSongs: ['Mount Everest', 'All For Us', 'Still Don\'t know my name'],
+        bandMembers: [
             {
                 name: 'Timothy Lee McKenzie',
                 position: 'Lead Vocals / Song Writer',
                 birthday: 'January 4th, 1989'
-            },
+            }]
     },
     {
         name: 'I Feel Like I\'m Drowning',
